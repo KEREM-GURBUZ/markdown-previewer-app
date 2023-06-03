@@ -12,35 +12,35 @@ function Footer() {
     <div className="w-full fixed left-0 bottom-0">
       <div className="w-full flex items-center justify-center pt-4 mb-4">
         <a
-          href="https://github.com/ziyacaylan"
+          href=""
           target="_blank"
           rel="noreferrer"
         >
           <FaGithub className="w-8 h-8 text-black m-2" />
         </a>
         <a
-          href="https://www.linkedin.com/in/ziya-caylan/"
+          href=""
           target="_blank"
           rel="noreferrer"
         >
           <FaLinkedin className="w-8 h-8 m-2 text-linkedin" />
         </a>
         <a
-          href="https://codepen.io/ziya-c/pens/"
+          href=""
           target="_blank"
           rel="noreferrer"
         >
           <FaCodepen className="w-8 h-8  m-2 text-linkedin" />
         </a>
         <a
-          href="https://www.freecodecamp.org/ziya_caylan"
+          href=""
           target="_blank"
           rel="noreferrer"
         >
           <FaFreeCodeCamp className="w-8 h-8  m-2 text-linkedin" />
         </a>
         <a
-          href="https://ziya-caylan-portfolio.netlify.app"
+          href=""
           target="_blank"
           rel="noreferrer"
         >
